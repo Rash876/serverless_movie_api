@@ -5,8 +5,7 @@
             "Item": {
                 "title": {"S": "Fast Times at Ridgemont High"},
                 "releaseYear": {"N": "1982"},
-                "genre": {"S": "Comedy Romance"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=ridgemonthigh.jpg"}                      
+                "genre": {"S": "Comedy Romance"}
             }
         }
     },
@@ -15,8 +14,7 @@
             "Item": {
                 "title": {"S": "Longlegs"},
                 "releaseYear": {"N": "2024"},
-                "genre": {"S": "Crime Horror"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=longlegs.jpg"}                      
+                "genre": {"S": "Crime Horror"}                      
             }
         }
     },
@@ -25,8 +23,7 @@
             "Item": {
                 "title": {"S": "The Surfer"},
                 "releaseYear": {"N": "2024"},
-                "genre": {"S": "Psychological Suspense Thriller"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=thesurfer.jpg"}                      
+                "genre": {"S": "Psychological Suspense Thriller"}                      
             }
         }
     },
@@ -35,8 +32,7 @@
             "Item": {
                 "title": {"S": "Arcadian"},
                 "releaseYear": {"N": "2024"},
-                "genre": {"S": "Action Horror"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=thearcadian.jpg"}                      
+                "genre": {"S": "Action Horror"}                     
             }
         }
     },
@@ -45,8 +41,7 @@
             "Item": {
                 "title": {"S": "The Retirement Plan"},
                 "releaseYear": {"N": "2023"},
-                "genre": {"S": "Crime Comedy Thriller"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=retirementplan.jpg"}                      
+                "genre": {"S": "Crime Comedy Thriller"}
             }
         }
     },
@@ -55,8 +50,7 @@
             "Item": {
                 "title": {"S": "Dream Scenario"},
                 "releaseYear": {"N": "2023"},
-                "genre": {"S": "Comedy Horror"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=dreamscenario.jpg"}                      
+                "genre": {"S": "Comedy Horror"}
             }
         }
     },
@@ -65,8 +59,7 @@
             "Item": {
                 "title": {"S": "Sympathy for the Devil"},
                 "releaseYear": {"N": "2023"},
-                "genre": {"S": "Action Thriller"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=sympathyfordevil.jpg"}                      
+                "genre": {"S": "Action Thriller"}
             }
         }
     },
@@ -75,8 +68,7 @@
             "Item": {
                 "title": {"S": "The Flash"},
                 "releaseYear": {"N": "2023"},
-                "genre": {"S": "Action Sci-fi"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=theflash.jpg"}                      
+                "genre": {"S": "Action Sci-fi"}                     
             }
         }
     },
@@ -85,8 +77,7 @@
             "Item": {
                 "title": {"S": "Renfield"},
                 "releaseYear": {"N": "2023"},
-                "genre": {"S": "Comedy Horror"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=renfield.jpg"}                      
+                "genre": {"S": "Comedy Horror"}                    
             }
         }
     },
@@ -95,8 +86,7 @@
             "Item": {
                 "title": {"S": "The Old Way"},
                 "releaseYear": {"N": "2023"},
-                "genre": {"S": "Western Action"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=theoldway.jpg"}                      
+                "genre": {"S": "Western Action"}                     
             }
         }
     },
@@ -105,8 +95,7 @@
             "Item": {
                 "title": {"S": "Butcher's Crossing"},
                 "releaseYear": {"N": "2022"},
-                "genre": {"S": "Western Adventure"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=butcherscrossing.jpg"}                      
+                "genre": {"S": "Western Adventure"}
             }
         }
     },
@@ -115,8 +104,7 @@
             "Item": {
                 "title": {"S": "The Unbearable Weight of Massive Talent"},
                 "releaseYear": {"N": "2022"},
-                "genre": {"S": "Comedy Action"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=weightoftalent.jpg"}                      
+                "genre": {"S": "Comedy Action"}
             }
         }
     },
@@ -125,8 +113,7 @@
             "Item": {
                 "title": {"S": "Pig"},
                 "releaseYear": {"N": "2021"},
-                "genre": {"S": "American Drama"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=pig.jpg"}                      
+                "genre": {"S": "American Drama"}                    
             }
         }
     },
@@ -135,8 +122,7 @@
             "Item": {
                 "title": {"S": "Willy's Wonderland"},
                 "releaseYear": {"N": "2021"},
-                "genre": {"S": "Action Horror"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=willyswonderland.jpg"}                      
+                "genre": {"S": "Action Horror"}
             }
         }
     },
@@ -145,8 +131,7 @@
             "Item": {
                 "title": {"S": "Prisoners of the Ghostland"},
                 "releaseYear": {"N": "2021"},
-                "genre": {"S": "Action Horror"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=ghostlandprisoners.jpg"}                      
+                "genre": {"S": "Action Horror"}
             }
         }
     },
@@ -155,8 +140,7 @@
             "Item": {
                 "title": {"S": "The Croods: A New Age"},
                 "releaseYear": {"N": "2020"},
-                "genre": {"S": "Comedy Adventure"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=croods-new-age.jpg"}                      
+                "genre": {"S": "Comedy Adventure"}
             }
         }
     },
@@ -165,8 +149,7 @@
             "Item": {
                 "title": {"S": "Jiu Jitsu"},
                 "releaseYear": {"N": "2020"},
-                "genre": {"S": "Action Sci-fi"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=jiujitsu.jpg"}                      
+                "genre": {"S": "Action Sci-fi"}                   
             }
         }
     },
@@ -175,8 +158,7 @@
             "Item": {
                 "title": {"S": "Grand Isle"},
                 "releaseYear": {"N": "2019"},
-                "genre": {"S": "Action Thriller"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=grand-isle.jpg"}                      
+                "genre": {"S": "Action Thriller"}                    
             }
         }
     },
@@ -185,8 +167,7 @@
             "Item": {
                 "title": {"S": "Primal"},
                 "releaseYear": {"N": "2019"},
-                "genre": {"S": "Action Thriller"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=primal.jpg"}                      
+                "genre": {"S": "Action Thriller"}                     
             }
         }
     },
@@ -195,8 +176,7 @@
             "Item": {
                 "title": {"S": "Kill Chain"},
                 "releaseYear": {"N": "2019"},
-                "genre": {"S": "Action Thriller"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=kill-chain.jpg"}                      
+                "genre": {"S": "Action Thriller"}                    
             }
         }
     },
@@ -205,8 +185,7 @@
             "Item": {
                 "title": {"S": "Running with the Devil"},
                 "releaseYear": {"N": "2019"},
-                "genre": {"S": "Crime Thriller"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=running-with-the-devil.jpg"}                      
+                "genre": {"S": "Crime Thriller"}
             }
         }
     },
@@ -215,8 +194,7 @@
             "Item": {
                 "title": {"S": "Color Out of Space"},
                 "releaseYear": {"N": "2019"},
-                "genre": {"S": "Horror Sci-fi"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=color-out-of-space.jpg"}                      
+                "genre": {"S": "Horror Sci-fi"}
             }
         }
     },
@@ -225,8 +203,7 @@
             "Item": {
                 "title": {"S": "A Score to Settle"},
                 "releaseYear": {"N": "2019"},
-                "genre": {"S": "Action Thriller"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=score-to-settle.jpg"}                      
+                "genre": {"S": "Action Thriller"}
             }
         }
     },
@@ -235,8 +212,7 @@
             "Item": {
                 "title": {"S": "Spider-Man: Into the Spider-Verse"},
                 "releaseYear": {"N": "2018"},
-                "genre": {"S": "Action"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=into-the-spiderverse.jpg"}                      
+                "genre": {"S": "Action"}
             }
         }
     },
@@ -245,8 +221,7 @@
             "Item": {
                 "title": {"S": "Between Worlds"},
                 "releaseYear": {"N": "2018"},
-                "genre": {"S": "Supernatural Thriller"},
-                "coverurl": {"S": "https://us-east-1.console.aws.amazon.com/s3/object/movie-cover?region=us-east-1&bucketType=general&prefix=between-worlds.jpg"}                      
+                "genre": {"S": "Supernatural Thriller"}
             }
         }
     }            
